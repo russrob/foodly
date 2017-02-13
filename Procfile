@@ -1,0 +1,1 @@
+web: gunicorn foodly.wsgi --log-file - 
